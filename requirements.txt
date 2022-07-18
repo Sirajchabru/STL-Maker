@@ -1,0 +1,6 @@
+gmsh-sdk==4.6.0.post1
+meshio==5.3.4
+Pillow==9.1.1
+trimesh==3.12.8
+gmsh==4.10.5
+
